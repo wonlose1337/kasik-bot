@@ -1,0 +1,37 @@
+{
+  "SOSITEDODEPERI228": {
+    "reward": 19909000000000000843709683859456,
+    "activations": 10,
+    "current_activations": 3,
+    "expiry": null,
+    "created_by": "6076432444",
+    "created_at": 1756110505.11681,
+    "used_by": [
+      "6076432444",
+      "737300328",
+      "6190327518"
+    ]
+  },
+  "PISYA": {
+    "reward": 5000000000,
+    "activations": 3,
+    "current_activations": 3,
+    "expiry": null,
+    "created_by": "6190327518",
+    "created_at": 1756111729.328555,
+    "used_by": [
+      "6190327518",
+      "6076432444",
+      "737300328"
+    ]
+  },
+  "5КККПРОМО": {
+    "reward": 5000000000,
+    "activations": -1,
+    "current_activations": 0,
+    "expiry": null,
+    "created_by": "6076432444",
+    "created_at": 1756112104.72682,
+    "used_by": []
+  }
+}
